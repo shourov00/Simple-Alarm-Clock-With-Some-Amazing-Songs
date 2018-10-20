@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+
+    <string-array name="songs">
+
+        <item>Pick a ringtone!</item>
+        <item>Breaking the habit.mp3</item>
+        <item>Castle of glass.mp3</item>
+        <item>Closer.mp3</item>
+        <item>Love me like you do.mp3</item>
+        <item>My heart will go on.mp3</item>
+        <item>Perfect.mp3</item>
+        <item>Photograph.mp3</item>
+
+    </string-array>
+</resources>
